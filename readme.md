@@ -4,6 +4,18 @@
   <img src="https://file-gyvegifxiy.now.sh" alt="screenshot">
 </p>
 
+## Usage
+
+```bash
+$ npm install sick-colors
+```
+
+```js
+const { green, red, foreground, background } = require('sick-colors')
+```
+
+Check [index.js](./index.js) to see the full list of colors.
+
 
 ## Used by
 
