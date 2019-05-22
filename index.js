@@ -1,4 +1,4 @@
-exports = {
+module.exports = {
   black: '#1E1F28',
   background: '#1E1F28', // same as black
   white: '#F7FFF7',
