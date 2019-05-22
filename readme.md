@@ -1,7 +1,7 @@
 # Sick colors palette
 
 <p align="center">
-  <img src="https://file-gyvegifxiy.now.sh" alt="screenshot">
+  <img src="https://file-cbsumccvdy.now.sh" alt="screenshot">
 </p>
 
 ## Usage
