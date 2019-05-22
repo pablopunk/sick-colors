@@ -6,7 +6,7 @@ exports = {
   red = '#FF6B6B',
   green = '#2CF6B3',
   yellow = '#FFE66D',
-  blue = '#809BCE',
+  blue = '#69B2E7',
   magenta = '#CE92CB',
   cyan = '#4ECDC4'
 }
