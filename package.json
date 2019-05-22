@@ -1,0 +1,30 @@
+{
+  "name": "sick-colors",
+  "version": "0.0.1",
+  "description": "Sick colors palette",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pablopunk/sick-colors.git"
+  },
+  "keywords": [
+    "sick",
+    "colors",
+    "palette",
+    "theme",
+    "syntax",
+    "hyper",
+    "vim",
+    "pastel",
+    "pale"
+  ],
+  "author": "Pablo Varela (https://pablo.life)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pablopunk/sick-colors/issues"
+  },
+  "homepage": "https://github.com/pablopunk/sick-colors#readme"
+}
