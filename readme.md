@@ -19,6 +19,7 @@ Check [index.js](./index.js) to see the full list of colors.
 
 ## Used by
 
+- [hyper-sick](https://github.com/pablopunk/hyper-sick)
 - [hyper-native-dark](https://github.com/pablopunk/hyper-native-dark)
 
 
