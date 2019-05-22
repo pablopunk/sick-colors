@@ -1,7 +1,7 @@
 # Sick colors palette
 
 <p align="center">
-  <img src="https://file-cbsumccvdy.now.sh" alt="screenshot">
+  <img src="https://github.com/pablopunk/art/raw/master/sick-colors/palette.png" alt="screenshot">
 </p>
 
 ## Usage
