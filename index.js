@@ -8,5 +8,14 @@ module.exports = {
   yellow: '#FFE66D',
   blue: '#69B2E7',
   magenta: '#FF6699',
-  cyan: '#4ECDC4'
+  cyan: '#4ECDC4',
+  // alternatives
+  ligthBlack: '#282A40',
+  ligthWhite: '#E9E8EB',
+  ligthRed: '#FF866B',
+  ligthGreen: '#5ADAAF',
+  ligthYellow: '#EDD580',
+  ligthBlue: '#4CABD3',
+  ligthMagenta: '#EF7BD5',
+  ligthCyan: '#67D7DE',
 }
