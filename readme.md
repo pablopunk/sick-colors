@@ -22,6 +22,7 @@ Check [index.js](./index.js) to see the full list of colors.
 - [hyper-sick](https://github.com/pablopunk/hyper-sick): A hyper theme
 - [hyper-native-dark](https://github.com/pablopunk/hyper-native-dark): A hyper plugin
 - [sick-code](https://github.com/pablopunk/sick-code): Visual Studio Code theme
+- [vimcolors.org](https://vimcolors.org): It uses sick palette by default
 
 
 ## License
