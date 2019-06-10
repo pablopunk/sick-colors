@@ -2,6 +2,7 @@
 
 <p align="center">
   <img src="https://github.com/pablopunk/art/raw/master/sick-colors/palette.png" alt="screenshot">
+  <img src="https://github.com/pablopunk/art/raw/master/sick-colors/palette-light.png" alt="screenshot">
 </p>
 
 ## Usage
