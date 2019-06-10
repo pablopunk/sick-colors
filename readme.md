@@ -11,7 +11,23 @@ $ npm install sick-colors
 ```
 
 ```js
-const { green, red, foreground, background } = require('sick-colors')
+const colors = require('sick-colors')
+
+console.log(colors.background)
+console.log(colors.foreground)
+console.log(colors.green)
+console.log(colors.magenta)
+console.log(colors.light.green)
+console.log(colors.light.blue)
+```
+
+```bash
+#1f1f28
+#f7fff7
+#6ff6be
+#d36ff6
+#01b569
+#2281d8
 ```
 
 Check [index.js](./index.js) to see the full list of colors.
