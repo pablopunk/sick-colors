@@ -1,8 +1,8 @@
 module.exports = {
   black: '#454545',
   background: '#1f1f28',
-  white: '#f7fff7',
-  foreground: '#f7fff7',
+  white: '#fffff7',
+  foreground: '#fffff7',
   red: '#f66f6f',
   green: '#6ff6be',
   yellow: '#f6d96f',
@@ -11,7 +11,7 @@ module.exports = {
   cyan: '#6feef6',
   light: {
     black: '#454545',
-    background: '#f7fff7',
+    background: '#fffff7',
     white: '#f1f1f1',
     foreground: '#1f1f28',
     red: '#df3232',
