@@ -1,7 +1,7 @@
 # Sick colors palette
 
 <p align="center">
-  <img src="https://github.com/pablopunk/art/raw/master/sick-colors/terminal.svg" alt="screenshot">
+  <img src="https://raw.githubusercontent.com/pablopunk/art/master/sick-colors/terminal.svg?sanitize=true" alt="screenshot">
 </p>
 
 ## Usage
