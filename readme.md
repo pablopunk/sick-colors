@@ -1,8 +1,7 @@
 # Sick colors palette
 
 <p align="center">
-  <img src="https://github.com/pablopunk/art/raw/master/sick-colors/palette.png" alt="screenshot">
-  <img src="https://github.com/pablopunk/art/raw/master/sick-colors/palette-light.png" alt="screenshot">
+  <img src="https://github.com/pablopunk/art/raw/master/sick-colors/terminal.svg" alt="screenshot">
 </p>
 
 ## Usage
@@ -12,7 +11,7 @@ $ npm install sick-colors
 ```
 
 ```js
-const colors = require('sick-colors')
+const colors = require('.')
 
 console.log(colors.background)
 console.log(colors.foreground)
@@ -23,10 +22,10 @@ console.log(colors.light.blue)
 ```
 
 ```bash
-#1f1f28
-#f7fff7
-#6ff6be
-#d36ff6
+#272935
+#dadada
+#6ef8be
+#c481ff
 #01b569
 #2281d8
 ```
