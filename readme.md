@@ -11,7 +11,7 @@ $ npm install sick-colors
 ```
 
 ```js
-const colors = require('.')
+const colors = require('sick-colors')
 
 console.log(colors.background)
 console.log(colors.foreground)
