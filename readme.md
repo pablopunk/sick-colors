@@ -40,6 +40,7 @@ Check [index.js](./index.js) to see the full list of colors.
 - [sick-code](https://github.com/pablopunk/sick-code): Visual Studio Code theme
 - [sick-iterm2](https://github.com/pablopunk/sick-iterm2): iterm2 theme
 - [vimcolors.org](https://vimcolors.org): It uses sick palette by default
+- [pablo.pink](https://pablo.pink): Uses sick colors as css themes
 
 
 ## License
